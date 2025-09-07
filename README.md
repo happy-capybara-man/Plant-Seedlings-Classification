@@ -7,3 +7,7 @@
 ###  混淆矩陣 (驗證集)
 
 ![Confusion Matrix](confusonMatrix.png)
+
+###  Submissions
+
+![Submissions](submit.png)
